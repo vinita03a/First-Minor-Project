@@ -1,1 +1,1 @@
-# Firs_Minor_Project
+# First_Minor_Project
